@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    position: relative;
+    text-align: center;
+}
+.help-need{
+    position: absolute;
+    top: 10px;
+    left: 10%;
+    font-size: 40px;
+}
+.link-add{
+    position: absolute;
+    top: 140px;
+    left: 10%;
+    font-size:20px;
+}
+.link-add2{
+    position: absolute;
+    top: 280px;
+    left: 15%;
+    right: 600px;
+    text-decoration: none;
+    border: 1px solid orangered;
+    border-radius: 5px;
+    background-color: orangered;
+    width: 15%;
+    
+}
